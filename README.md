@@ -17,6 +17,9 @@ A comprehensive machine learning project for detecting toxic comments using natu
 - **ROC Curve Visualization**: Performance comparison across models
 - **Training Time Analysis**: Efficiency benchmarking for different algorithms
 
+![image](https://github.com/user-attachments/assets/464ac250-3c4d-4436-b39c-8d0d13c42854)
+
+
 ### 🌐 Web Application
 - **Real-Time Predictions**: Instant toxicity analysis with confidence scoring
 - **Interactive Interface**: Beautiful Streamlit-based UI with responsive design
@@ -24,6 +27,9 @@ A comprehensive machine learning project for detecting toxic comments using natu
 - **Confidence Visualization**: Gauge charts showing prediction confidence
 - **Usage Analytics**: Track prediction history and usage patterns
 - **Export Functionality**: Download analysis results as CSV files
+- 
+![image](https://github.com/user-attachments/assets/59d2be0f-a1c8-4d09-8208-7fa2de74847b)
+
 
 ## 📊 Dataset
 
@@ -34,6 +40,13 @@ This project uses the Jigsaw Toxic Comment Classification dataset:
 - **Features**: Pre-cleaned comment text with comprehensive preprocessing
 - **Split**: Train/Validation/Test splits available
 - **Quality**: High-quality human-annotated data from online platforms
+
+![image](https://github.com/user-attachments/assets/bdc6f529-d69d-4776-a917-6141573eb64c)
+
+![image](https://github.com/user-attachments/assets/3ac0f9dc-1aeb-44da-b9cb-68e8b565c9de)
+
+![image](https://github.com/user-attachments/assets/a5fa786e-0cf1-4dd5-abd8-00377ac3bdf8)
+
 
 ## 🛠️ Technical Architecture
 
