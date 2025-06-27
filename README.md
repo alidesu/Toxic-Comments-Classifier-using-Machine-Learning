@@ -439,9 +439,9 @@ If you use this project in research, please cite:
 4. **Discussions**: Ask questions in GitHub Discussions
 
 ### Contact Information
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **Email**: your.email@example.com (for security issues)
-- **Twitter**: [@your-handle](https://twitter.com/your-handle)
+- **GitHub**: [@alidesu](https://github.com/alidesu)
+- **Email**: imtinanfarooq10@gmail.com (for security issues)
+- **Twitter**: [@binarybruise](https://twitter.com/binarybruise)
 
 ---
 
