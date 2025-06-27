@@ -1,4 +1,4 @@
-# 🔍 Toxic Comment Classifier
+# 🔍 Toxic Comment Classifier Using Machine Learning
 
 A comprehensive machine learning project for detecting toxic comments using natural language processing and state-of-the-art classification algorithms. This project provides both a complete training pipeline and an interactive web application for real-time content moderation.
 
