@@ -335,7 +335,7 @@ We welcome contributions! Here's how to get started:
 
 ### Development Setup
 ```bash
-git clone <your-repo-url>
+git clone alidesu/Toxic-Comments-Classifier-using-Machine-Learning
 cd ML-Project
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
@@ -424,9 +424,9 @@ If you use this project in research, please cite:
 ```bibtex
 @misc{toxic-comment-classifier,
   title={Toxic Comment Classifier: ML-Based Content Moderation},
-  author={Your Name},
+  author={Imtinan Farooq},
   year={2025},
-  url={https://github.com/your-username/ML-Project}
+  url={https://github.com/alidesu/ML-Project}
 }
 ```
 
